@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa9dfbdc.chunk.css",
+    "main.js": "/static/js/main.6aafd97d.chunk.js",
+    "main.js.map": "/static/js/main.6aafd97d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.933e8794.js",
+    "runtime~main.js.map": "/static/js/runtime~main.933e8794.js.map",
+    "static/js/2.6f2a07b6.chunk.js": "/static/js/2.6f2a07b6.chunk.js",
+    "static/js/2.6f2a07b6.chunk.js.map": "/static/js/2.6f2a07b6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.577c38c9a305addfed7fee6df1e70f91.js": "/precache-manifest.577c38c9a305addfed7fee6df1e70f91.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fa9dfbdc.chunk.css.map": "/static/css/main.fa9dfbdc.chunk.css.map",
+    "static/media/64372250_2406351522755075_1421299193296715776_o.jpg": "/static/media/64372250_2406351522755075_1421299193296715776_o.9d891f07.jpg",
+    "static/media/833.gif": "/static/media/833.d34a4111.gif",
+    "static/media/main.css": "/static/media/RobotoRegular.eee713d6.eot",
+    "static/media/about.jpg": "/static/media/about.aacde0e3.jpg",
+    "static/media/airplane-shape.svg": "/static/media/airplane-shape.2af58ca3.svg",
+    "static/media/bin.svg": "/static/media/bin.2f8b104d.svg",
+    "static/media/cargo-truck.svg": "/static/media/cargo-truck.37b2b3e0.svg",
+    "static/media/coure.png": "/static/media/coure.e9616aca.png",
+    "static/media/delivery-item.jpg": "/static/media/delivery-item.64d98189.jpg",
+    "static/media/edit.svg": "/static/media/edit.528a6163.svg",
+    "static/media/left-arrow.svg": "/static/media/left-arrow.fac30ab7.svg",
+    "static/media/logo.svg": "/static/media/logo.d3c4fc38.svg",
+    "static/media/sea-ship-with-containers.svg": "/static/media/sea-ship-with-containers.c97ec3ef.svg",
+    "static/media/success.svg": "/static/media/success.f9a14c42.svg",
+    "static/media/train-front.svg": "/static/media/train-front.74f02257.svg",
+    "static/media/user.svg": "/static/media/user.e47cd797.svg"
+  }
+}
